@@ -20,7 +20,6 @@ each gene and to obtain an RPN cut-off. Using this RPN cut-off, the sample level
 
 ![rpn](https://user-images.githubusercontent.com/18418058/52130792-6de28b00-263b-11e9-95fd-d904c33b5502.jpeg)
 
-
 RPN distribution across the genome for genic and intergenic (noise) along with regions of 
 Absence, Marginal, and Presence
 
