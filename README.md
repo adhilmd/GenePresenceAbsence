@@ -23,6 +23,7 @@ each gene and to obtain an RPN cut-off. Using this RPN cut-off, the sample level
 RPN distribution across the genome for genic and intergenic (noise) along with regions of 
 Absence, Marginal, and Presence
 
+This work is published @ https://link.springer.com/chapter/10.1007/978-981-10-7245-1_22
 
 
 
