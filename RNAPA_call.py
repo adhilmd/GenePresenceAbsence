@@ -92,10 +92,8 @@ def process(x):
         total, mapped = 0, 0
         for rec in bamfile.fetch(i[0],int(i[1]),int(i[2])):
             total += 1
-            
             if rec.is_unmapped:
-                continue
-        
+                continue 
             mapped += 1
         counts[i[3]] = [mapped,total,int(i[2])-int(i[1])+1]
         bamfile.reset()
